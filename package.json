@@ -1,0 +1,25 @@
+{
+  "name": "softuni-react-native-api",
+  "version": "1.0.0",
+  "description": "React Native Course Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhoroBrankov/softuni-react-native-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ZhoroBrankov/softuni-react-native-api/issues"
+  },
+  "homepage": "https://github.com/ZhoroBrankov/softuni-react-native-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
